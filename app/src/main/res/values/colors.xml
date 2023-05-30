@@ -7,4 +7,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#FF0EAD69</color>
+    <color name="colorPrimaryDark">#FF13955E</color>
+    <color name="colorAccent">#FF13955E</color>
+    <color name="toolbar_gradient_start">#FF0EAD69</color>
+    <color name="toolbar_gradient_end">#FF81D74E</color>
+    <color name="icon_selected">#FF0EAD69</color>
+    <color name="main_navigation_bg">#FFEBEBEB</color>
+    <color name="icon_default">#FFE63E11</color>
+    <color name="nutrient_level_low">#FF85BB2F</color>
+    <color name="nutrient_level_moderate">#FFFDCB01</color>
+    <color name="nutrient_level_high">#FFE63E12</color>
 </resources>
