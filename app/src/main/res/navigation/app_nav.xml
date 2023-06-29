@@ -5,7 +5,7 @@
     app:startDestination="@id/productsListFragment">
     <fragment
         android:id="@+id/productsListFragment"
-        android:name="com.example.androidcourse.ProductsListFragment"
+        android:name="com.example.androidcourse.ui.productslist.ProductsListFragment"
         android:label="ProductsListFragment" >
         <action
             android:id="@+id/action_productsListFragment_to_productsDetailsFragment"
@@ -13,6 +13,6 @@
     </fragment>
     <fragment
         android:id="@+id/productsDetailsFragment"
-        android:name="com.example.androidcourse.ProductDetailsFragment"
+        android:name="com.example.androidcourse.ui.productdetails.ProductDetailsFragment"
         android:label="ProductsDetailsFragment" />
 </navigation>

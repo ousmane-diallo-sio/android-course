@@ -60,13 +60,14 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/tvProductName"
+                            android:id="@+id/tvNameProductDetails"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Petis pois et carottes"
                             style="@style/tvTitleTextStyle"/>
 
                         <TextView
+                            android:id="@+id/tvBrandProductDetails"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Cassegrain"
@@ -74,6 +75,7 @@
                     </LinearLayout>
 
                     <ImageView
+                        android:id="@+id/ivNutriscoreProductDetails"
                         android:layout_width="78dp"
                         android:layout_height="42dp"
                         app:layout_constraintTop_toTopOf="parent"
